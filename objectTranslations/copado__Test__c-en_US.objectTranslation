@@ -90,4 +90,15 @@
         <name>copado__User_Story__c</name>
         <relationshipLabel><!-- Tests --></relationshipLabel>
     </fields>
+    <layouts>
+        <layout>Test Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Run --></label>
+        <name>copado__Run</name>
+    </quickActions>
 </CustomObjectTranslation>
