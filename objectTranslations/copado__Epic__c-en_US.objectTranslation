@@ -54,4 +54,19 @@
         <label><!-- Technical Assumptions --></label>
         <name>copado__Technical_Assumptions__c</name>
     </fields>
+    <layouts>
+        <layout>Epic Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Description --></label>
+            <section>Description</section>
+        </sections>
+        <sections>
+            <label><!-- Owners --></label>
+            <section>Owners</section>
+        </sections>
+    </layouts>
 </CustomObjectTranslation>
